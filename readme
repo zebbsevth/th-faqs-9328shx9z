@@ -1,0 +1,22 @@
+# Verathon Internal Knowledge Base – Chatbot FAQs
+
+**Property of Verathon. Not for public use.**
+
+This repository contains internal FAQ content designed to support Verathon's Freshchat chatbot.  
+Each Markdown file represents a frequently asked question relevant to Verathon employees, including:
+
+- A summarized main answer
+- A list of user-friendly question variants
+- A reference URL to the internal knowledge base or documentation
+
+These files are used to populate and train the chatbot so it can deliver quick, accurate, and context-aware responses to employee questions.
+
+## Important Notes
+
+- All content in this repository is the property of **Verathon Inc.**
+- **This material is for internal use only** and may contain confidential or operational information.
+- Do **not** distribute, republish, or share this content outside the organization without written permission.
+
+For corrections, additions, or questions about this content, please contact the IT Service Desk or the chatbot administrator.
+
+---
